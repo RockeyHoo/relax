@@ -19,6 +19,7 @@
 
     <modules>
         <module>relax-core</module>
+        <module>relax-sample</module>
     </modules>
 
     <dependencyManagement>
